@@ -2,10 +2,10 @@
 
 ### Line Navigation
 
-k – navigate upwards
-j – navigate downwards
-l – navigate right side
-h – navigate left side
+* k – navigate upwards
+* j – navigate downwards
+* l – navigate right side
+* h – navigate left side
 
 By using the repeat factor in VIM we can do this operation for N times. For example, when you want to
 go down by 10 lines, then type “10j”.
